@@ -65,5 +65,5 @@ This bash script automates the setup of a comprehensive bug bounty and red teami
 ## 🚀 Usage
 
 ```bash
-chmod +x install-tools.sh
-sudo ./install-tools.sh
+chmod +x webtools.sh
+sudo ./webtools.sh
